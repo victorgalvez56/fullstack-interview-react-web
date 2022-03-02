@@ -22,13 +22,9 @@ _Instructions to be able to upload the project in android or ios._
 2. Install NPM packages
    ```sh
    npm install
-3. Compile to ios
+3. Start app
    ```sh
-   npx react-native run-ios
-   ```
-3. Compile to android
-   ```sh
-   npx react-native run-android
+   npm start
    ```
 
 ### Additional
